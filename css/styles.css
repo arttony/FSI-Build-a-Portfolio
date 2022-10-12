@@ -19,7 +19,7 @@ h3 {
     text-align: center;
 }
 img{
-    border: 3px dashed #383728;
+    border: 3px dashed white;
     max-width: 300px;
     max-height: 300px;
     object-fit: contain;
