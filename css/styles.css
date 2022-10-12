@@ -39,10 +39,12 @@ img {
     text-align: center;
 }
 
-.project-list{
-    font-size: 30px;
-}
-
 p {
     font-size: 20px;
+}
+
+ul {
+    margin: 0em 28em 0em;
+    text-align: center;
+    font-size: 30px;
 }
