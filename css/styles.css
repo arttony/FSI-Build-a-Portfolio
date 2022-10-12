@@ -15,18 +15,18 @@ h3 {
     color: #383728;
     text-align: center;
 }
-.picture{
+.picture {
     text-align: center;
 }
-img{
+img {
     border: 3px dashed white;
     max-width: 300px;
     max-height: 300px;
     object-fit: contain;
 }
-.contact-info{
+.contact-info {
     text-align: center;
 }
-.favorite-thing{
+.favorite-thing {
     text-align: center;
 }
