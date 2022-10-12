@@ -2,31 +2,38 @@ body {
     background-color: #7c7e8f;
     cursor: pointer;
 }
+
 h1 {
     color: #383728;
     text-align: center;
     font-family: cursive;
 }
+
 h2 {
     color: #383728;
     text-align: center;
 }
+
 h3 {
     color: #383728;
     text-align: center;
 }
+
 .picture {
     text-align: center;
 }
+
 img {
     border: 3px dashed white;
     max-width: 300px;
     max-height: 300px;
     object-fit: contain;
 }
+
 .contact-info {
     text-align: center;
 }
+
 .favorite-thing {
     text-align: center;
 }
