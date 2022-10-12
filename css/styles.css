@@ -1,24 +1,25 @@
 body {
-    background-color: olivedrab;
+    background-color: #7c7e8f;
     cursor: crosshair;
 }
 h1 {
-    color: black;
+    color: #383728;
     text-align: center;
     font-family: cursive;
 }
 h2 {
+    color: #383728;
     text-align: center;
 }
 h3 {
-    color: white;
+    color: #383728;
     text-align: center;
 }
 .picture{
     text-align: center;
 }
 img{
-    border: 3px dashed white;
+    border: 3px dashed #383728;
     max-width: 300px;
     max-height: 300px;
     object-fit: contain;
