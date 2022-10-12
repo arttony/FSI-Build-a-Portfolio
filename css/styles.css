@@ -17,6 +17,7 @@ h2 {
 h3 {
     color: #383728;
     text-align: center;
+    font-size: 35px;
 }
 
 .picture {
@@ -36,4 +37,12 @@ img {
 
 .favorite-thing {
     text-align: center;
+}
+
+.project-list{
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
 }
