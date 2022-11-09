@@ -43,8 +43,21 @@ p {
     font-size: 20px;
 }
 
-ul {
+/*ul {
     margin: 0em 28em 0em;
     text-align: center;
     font-size: 30px;
+}*/
+
+ul {
+    text-align: center;
+    font-size: 30px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
 }
