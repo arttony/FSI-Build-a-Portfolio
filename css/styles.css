@@ -20,7 +20,7 @@ h3 {
     font-size: 35px;
 }
 
-.picture {
+#picture {
     text-align: center;
 }
 
@@ -31,11 +31,11 @@ img {
     object-fit: contain;
 }
 
-.contact-info {
+#contact-info {
     text-align: center;
 }
 
-.favorite-thing {
+#favorite-thing {
     text-align: center;
 }
 
